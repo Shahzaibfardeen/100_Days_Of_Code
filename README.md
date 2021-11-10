@@ -1,8 +1,8 @@
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/100_Days_Code_Challenge?color=red&label=Repo%20Size%20)
+![Size](https://img.shields.io/github/repo-size/Shahzaibfardeen/100_Days_Of_Code?color=red&label=Repo%20Size%20)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatayam/100_Days_Code_Challenge?color=red&label=Lines%20of%20Code)
+![](https://img.shields.io/tokei/lines/github/Shahzaibfardeen/100_Days_Of_Code?color=red&label=Lines%20of%20Code)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 ![](https://profile-counter.glitch.me/{100_Days_Code_Challenge}/count.svg)
 
