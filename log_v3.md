@@ -1,12 +1,13 @@
-# 100-days-of-code-log
+# #100_Days_Of_Code - Challenge Log v3.0  :memo:
+###### <br>
 
 **Main target:** ***I will code for at least an hour every day for the next 100 days.***
 
 Actually it is a challenge for 100 days to make a habit of everyday coding to develop my skill sets.  I inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway") #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").
 
-|  Start Date | End Date |
+|  Start Date  | End Date |
 | ------------ | ------------ |
-| 25 May, 2017 | --------|
+| 11 Nov, 2021 | --------|
 
 
 ## Goals
