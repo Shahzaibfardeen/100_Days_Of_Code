@@ -22,7 +22,7 @@ Read another chapter in [Bjarne Stroustrup's](http://www.stroustrup.com) [Progra
 I'm finally getting to the sections where I'm able to follow along with coding in the book and work on syntax again. I haven't messed around with C++ lately, so this will be good practice. I'm very interested in C++ applications for robotics and manufacturing. Additionally, I'd really like to start getting into [PLC](https://en.wikipedia.org/wiki/Programmable_logic_controller) coding and start learning languages like [Ladder Diagram (Ladder Logic)](https://en.wikipedia.org/wiki/Ladder_logic) and [Function Block Diagram](https://en.wikipedia.org/wiki/Function_block_diagram).
 <br>
 <br>
-## :calendar: Day 3/100 - Sunday, March 15, 2020
+## :calendar: Day 3/100 - Sunday, March 15, 2020 
 **Today's Progress**
 <br>
 I began working on another [Udemy](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/). I set up a [MinGW Compiler](http://www.mingw.org/) as well as [Eclipse IDE/CDT Development tools](https://www.eclipse.org/cdt/) and PATH environment variables and aliases so I'm able to begin writing source code and compiling on Windows.
