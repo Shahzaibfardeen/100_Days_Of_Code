@@ -17,15 +17,13 @@ _______________________________
 
 
 ### <h1 align="center"><img src="https://img.shields.io/badge/DAY-1-9cf.svg?label=DAY&style=for-the-badge&logo=Python&logoColor=yellow"></h1>
-
 ### <ol> Problem 1: <a href="https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/DAYS/Day1/Band_Name_Generator.py">**Program to create a Band Name Generator.**</a></ol>
 
 ```python
-    Input: Enter a Number: 78
-    Output: It's not an Fibonacci Number
-    
-    Input: Enter a Number: 55
-    Output: Yup! It's a Fibinacci Number
+	print("Welcome to the Band Name Generator.")
+ 	street = input("What's name of the city you grew up in?\n")
+	pet = input("What's your pet's name?\n")
+	print("Your band name could be " + street + " " + pet)
 ```
 
 _______________________________
