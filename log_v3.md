@@ -1,33 +1,7 @@
 # #100_Days_Of_Code - Challenge Log v3.0  :memo:
 ###### <br>
 
-**Main target:** ***I will code for at least an hour every day for the next 100 days.***
-
-Actually it is a challenge for 100 days to make a habit of everyday coding to develop my skill sets.  I inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway") #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").
-
-|  Start Date  | End Date |
-| ------------ | ------------ |
-| 11 Nov, 2021 | --------|
-
-
-## Goals
-- Make habit of coding daily & learn everyday
-- Revisit HTML, CSS, JS for deeper knowledge
-- Make some real world projects for my portfolio
-- Get a good grap on Node JS & server-side javascript
-- Complete [FCC](https://www.freecodecamp.com/mimukit "FCC Profile") certification
-
-## Completed Projects List
-
-| No  |  Project Title  |  Completed On |
-| :------------: | ------------ | :------------: |
-| 1  | Flat Login Template | [Day 1](https://github.com/mimukit/100-days-of-code-log#day-1-may-25-2017-thursday "Day 1")  |
-|  2 | Creative Login/Signup Template  | [Day 2](https://github.com/mimukit/100-days-of-code-log#day-2-may-26-2017-friday "Day 2")  |
-|  3 | Rivet - Simple Blog Template  | [Day 6](https://github.com/mimukit/100-days-of-code-log#day-6-may-30-2017-tuesday "Day 6")  |
-| 4 | React Weather App | [Day 15](https://github.com/mimukit/100-days-of-code-log#day-15-june-9-2017-friday "Day 15") |
-| 5 | React Youtube App | [Day 25](https://github.com/mimukit/100-days-of-code-log#day-25-june-20-2017-tuesday "Day 25") |
-
-## Log
+## 100 Days Of Logs :
 
 ### Day 1: May 25, 2017, Thursday
 
