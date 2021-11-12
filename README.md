@@ -17,7 +17,7 @@
 </p>
 
 
-_______________________________
+_________________________________
 
 <!-- Body Of The Page -->
 
@@ -35,14 +35,14 @@ _______________________________
 **Main Target :** ***I will code for at least an hour every day for the next 100 days.***
 
 Actually, it's a challenge for 100 days to make a habit of everyday Coding to Develop my Skill sets. More details about the Project & Logs can be found here :  [Project_Details](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Project_Detail_Logs.md) Or [The_Daily_logs](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/log_v3.md).
-
+<br>
 
 |  Start Date  | End Date |
 | ------------ | ------------ |
 | 11 Nov, 2021 | --------|
 
 
-## Goals  :->
+## Goals  :-
 - Make habit of Coding Daily & Learn Everyday.
 - Revisit Python & Dyjango for Deeper Knowledge.
 - Make some real world Projects for my Portfolio.
