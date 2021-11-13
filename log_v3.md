@@ -18,7 +18,7 @@
 **Thoughts:**  At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey. 
 
 ------------
-
+<!--
 ### Day 2: May 26, 2017, Friday
 
 **Today's Progress**: 
@@ -617,7 +617,7 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  No work on personal portfolio today. Completed the React book started yesterday. Actually the book is a summarized introduction of React ecosystems & concepts. Was not so much useful as I expected.
 
-
+-->
 -----------
 
 Yet To ADD
