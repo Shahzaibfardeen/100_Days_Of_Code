@@ -34,13 +34,13 @@ _________________________________
 
 **Main Target :** ***I will code for at least an hour every day for the next 100 days.***
 
-Actually, it's a challenge for 100 days to make a habit of everyday Coding to Develop my Skill sets. More details about the Project & Logs can be found here :  [Project_Details](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Project_Detail_Logs.md) Or [The_Daily_logs](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/log_v3.md).
+Actually, it's a challenge for 100 days to make a habit of everyday Coding to Develop my Skill sets. More details about the Project & Logs can be found here :  [Project_Details](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Project_Detail_Logs.md) Or [The_Daily_logs - Log_v2](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/log_v3.md).
 <br>
 <br/>
 
 |  Start Date  | End Date |
 | ------------ | ------------ |
-| 11 Nov, 2021 | --------|
+| 15 Nov, 2021 | --------|
 <br/>
 
 ## Goals  :-
@@ -62,6 +62,8 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 | 4  | React Weather App | [Day 15](https://github.com/mimukit/100-days-of-code-log#day-15-june-9-2017-friday "Day 15") |
 | 5  | React Youtube App | [Day 25](https://github.com/mimukit/100-days-of-code-log#day-25-june-20-2017-tuesday "Day 25") |-->
 
+
+<br/>
 _______________________________________
 
 <p align="center"> &copy; 2021 Shahzaib Fardeen </p>
