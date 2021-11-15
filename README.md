@@ -36,6 +36,7 @@ _________________________________
 
 Actually, it's a challenge for 100 days to make a habit of everyday Coding to Develop my Skill sets. More details about the Project & Logs can be found here :  [Project_Details](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Project_Detail_Logs.md) Or [The_Daily_logs](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/log_v3.md).
 <br>
+<br/>
 
 |  Start Date  | End Date |
 | ------------ | ------------ |
@@ -53,8 +54,8 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
-| 1  | Band Name Generator | [Day 1](https://github.com/mimukit/100-days-of-code-log#day-1-may-25-2017-thursday "Day 1")  |
-| 2  | Tip Calculator      | [Day 2](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/DAYS/Day2/New_File.py)  |
+| 1  | Band Name Generator | [Day 1](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)  |
+| 2  | Tip Calculator      | [Day 2]()  |
 
 <!--| 3  | Rivet - Simple Blog Template  | [Day 6](https://github.com/mimukit/100-days-of-code-log#day-6-may-30-2017-tuesday "Day 6")  |
 | 4  | React Weather App | [Day 15](https://github.com/mimukit/100-days-of-code-log#day-15-june-9-2017-friday "Day 15") |
