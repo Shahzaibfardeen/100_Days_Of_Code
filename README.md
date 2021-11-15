@@ -57,12 +57,11 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 - My Daily Professional Routines : Linux, 100 Days Of Code, SQL & Web Developments.
 - My Daily Routines              : 2 Hours Workouts, 2 Hours Code, 2 Hours Learnings.
 - My Volunteer Experience        : ELDO - "[EnLift Development Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)" by [Shahzaib Fardeen](https://www.instagram.com/shahzaib_fardeen/)
-<br/>
 
-- ##### *ELDO - EnLift Development Organization* : 
+##### *ELDO - EnLift Development Organization* : 
 	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
 
-- ##### *100 Days Of Code : 15 November, 2021, Monday* : 
+##### *100 Days Of Code : 15 November, 2021, Monday* : 
 	- it's a challenge for Me to code for next 100 days to make a habit of Everyday Coding to Develop my Skill Sets.
 <br/>
 
