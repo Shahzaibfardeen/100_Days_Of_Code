@@ -43,7 +43,8 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 | 15 Nov, 2021 | --------|
 <br/>
 
-## Goals  :-
+
+## Goals :
 - Make habit of Coding Daily & Learn Everyday.
 - Revisit Python & Dyjango for Deeper Knowledge.
 - Make some real world Projects for my Portfolio.
@@ -52,19 +53,18 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 <br/>
 
 
-### Meanwhile Need to Focus on :
- 
-My Daily Professional Routines : Linux, 100 Days Of Code, SQL, Web Developments.
-My Daily Routines              : 2 Hours Workouts, 2 Hours Code, 2 Hours Learnings.
-My Volunteer Experience        : ELDO 
+## Meanwhile Need to Focus on :
+- My Daily Professional Routines : Linux, 100 Days Of Code, SQL, Web Developments. <hr/>
+- My Daily Routines              : 2 Hours Workouts, 2 Hours Code, 2 Hours Learnings.
+- My Volunteer Experience        : ELDO (EnLift Development Organization)
 
-- ##### *ELDO - EnLift Development Organization* : 
+##### *ELDO - EnLift Development Organization* : 
 	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
 	- Link To The Project "[EnLift Development Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)" by [Shahzaib Fardeen](https://www.instagram.com/shahzaib_fardeen/)
 
 - ##### *100 Days Of Code : 15 November, 2021, Monday* : 
 	- 100 Days of Code & Projects.
-
+<br/>
 
 ## Completed Projects List
 
