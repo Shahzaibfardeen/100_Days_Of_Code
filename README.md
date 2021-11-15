@@ -53,15 +53,17 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 
 
 ### Meanwhile Need to Focus on :
-
-Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soon as possible. But in the main time, during the vacation, I'll try to read some books and resources in my free time. I'll update the vacation progress here:
+ 
+My Daily Professional Routines : Linux, 100 Days Of Code, SQL, Web Developments.
+My Daily Routines              : 2 Hours Workouts, 2 Hours Code, 2 Hours Learnings.
+My Volunteer Experience        : ELDO 
 
 - ##### *ELDO - EnLift Development Organization* : 
 	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
-	- Link To The Project "[The Road to learn React](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)" by [Shahzaib Fardeen](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 4]
+	- Link To The Project "[EnLift Development Organization](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)" by [Shahzaib Fardeen](https://www.instagram.com/shahzaib_fardeen/)
 
-- ##### *Vacation Day 2: 23 June, 2017, Friday* : 
-	- No reading or coding today also. Visiting some relatives house.
+- ##### *100 Days Of Code : 15 November, 2021, Monday* : 
+	- 100 Days of Code & Projects.
 
 
 ## Completed Projects List
