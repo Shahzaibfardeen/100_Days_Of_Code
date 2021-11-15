@@ -1,35 +1,21 @@
-# #100_Days_Of_Code - Challenge Log v3.0  :memo:
+# #100_Days_Of_Code - Challenge Log v2.0  :memo:
 ###### <br>
 
-## 100 Days Of Logs :
-
-### Day 1: May 25, 2017, Thursday
+### Day 1: Nov 15, 2021, Monday
 
 **Today's Progress**: 
 - Revised the basic HTML & CSS
 - Completed a "Flat Login Template" project
 
-**Link to work:** 
-- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+**Link to Project:** 
+- [Band Name Generator](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)
 
 **New thing(s) learned:** 
 - CSS: center an element on a page using `transform` & `translate` property
 
-**Thoughts:**  At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey. 
+**Thoughts:**  At last able to start the challenge & do some real world coding Projects. Enjoyed the time & work. Wish to have a great journey. 
 
 ------------
-<!--
-### Day 2: May 26, 2017, Friday
-
-**Today's Progress**: 
-- Continue revising the HTML & CSS
-- Completed a "Creative Login/Singup Template" project
-
-**Link to work:** 
-- [Creative Login/Signup Template](https://github.com/mimukit/html5-templates-collection#2-creative-loginsignup-template "Creative Login/Signup Template")
-
-**New thing(s) learned:** 
-- CSS: details about `position` & `box-shadow` property
 
 **Thoughts:**  Things are going well. As today was a weekend, I got some more time to learn some confusing topics of CSS. Feeling active. 😇😇 
 
