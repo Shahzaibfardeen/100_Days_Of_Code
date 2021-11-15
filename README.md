@@ -41,7 +41,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 |  Start Date  | End Date |
 | ------------ | ------------ |
 | 11 Nov, 2021 | --------|
-
+<br/>
 
 ## Goals  :-
 - Make habit of Coding Daily & Learn Everyday.
@@ -49,6 +49,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 - Make some real world Projects for my Portfolio.
 - Get a good grap on Data Science.
 - Complete [Python](https://iqvia.udemy.com/course/100-days-of-code/learn/lecture/17841330#overview) Certification.
+<br/>
 
 ## Completed Projects List
 
@@ -63,4 +64,4 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 
 _______________________________________
 
-<p> &copy; 2021 Shahzaib Fardeen </p>
+<p align="center"> &copy; 2021 Shahzaib Fardeen </p>
