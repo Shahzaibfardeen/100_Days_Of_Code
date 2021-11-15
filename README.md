@@ -51,6 +51,19 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 - Complete [Python](https://iqvia.udemy.com/course/100-days-of-code/learn/lecture/17841330#overview) Certification.
 <br/>
 
+
+### Meanwhile Need to Focus on :
+
+Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soon as possible. But in the main time, during the vacation, I'll try to read some books and resources in my free time. I'll update the vacation progress here:
+
+- ##### *ELDO - EnLift Development Organization* : 
+	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
+	- Link To The Project "[The Road to learn React](https://shahzaibfardeen.github.io/EnLift_Development_Organization-/index.html)" by [Shahzaib Fardeen](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 4]
+
+- ##### *Vacation Day 2: 23 June, 2017, Friday* : 
+	- No reading or coding today also. Visiting some relatives house.
+
+
 ## Completed Projects List
 
 | No  |  Project Title  |  Completed On |
