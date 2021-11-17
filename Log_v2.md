@@ -89,6 +89,7 @@
 
 ------------
 -->
-
-Yet To Add New Stuffs.
+<p align="center">
+	<a> Yet To Add New Stuffs. </a>
+</p>
 -----------
