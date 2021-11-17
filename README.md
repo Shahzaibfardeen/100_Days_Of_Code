@@ -61,13 +61,13 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
  - ##### *ELDO - EnLift Development Organization* : 
 	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
 
- - ##### *100 Days Of Code : 11 November, 2021, Monday* : 
+ - ##### *100 Days Of Code : 11 November, 2021, Thursday* : 
 	- it's a challenge for Me to code for next 100 days to make a habit of Everyday Coding to Develop my Skill Sets.
 <br/>
 
 ## Completed Projects List
 
-| No  |  Project Title  |  Completed On |
+| S.No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
 | 1  | Band Name Generator | [Day 1](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)  |
 | 2  | Tip Calculator      | [Day 2]()  |
