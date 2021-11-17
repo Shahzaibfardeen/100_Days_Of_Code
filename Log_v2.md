@@ -1,11 +1,11 @@
 # #100_Days_Of_Code - Challenge Log v2.0  :memo:
 ###### <br>
 
-### Day 1: Nov 15, 2021, Monday
+### Day 1: Nov 11, 2021, Monday
 
 **Today's Progress**: 
-- Revised the basic HTML & CSS
-- Completed a "Flat Login Template" project
+- Revised the basic of Python
+- Completed a "Band Name Generator" project
 
 **Link to Project:** 
 - [Band Name Generator](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)
@@ -90,5 +90,5 @@
 ------------
 -->
 
-Yet To ADD
+Yet To Add New Stuffs.
 -----------
