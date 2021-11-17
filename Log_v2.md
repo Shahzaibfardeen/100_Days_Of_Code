@@ -1,9 +1,5 @@
 # #100_Days_Of_Code - Challenge Log v2.0  :memo:
-#### <br>
-
-<p align="center">
-	<a 100 Days Of Code & Project - "[My_Repl.It](https://replit.com/repls/folder/100_Days_Of_Code)"> </a>
-</p>
+### <br>
 
 ### Day 1: Nov 11, 2021, Thursday
 
