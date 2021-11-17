@@ -90,6 +90,5 @@
 ------------
 -->
 <p align="center">
-	<a> Yet To Add New Stuffs. </a>
+	<a> Yet To Add New Daily Logs & Other Stuffs. </a>
 </p>
------------
