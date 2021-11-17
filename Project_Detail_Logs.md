@@ -6,12 +6,12 @@
 
 ###### Below is my summary of what I've learned everyday & the link to fork the project in [My_Repl.it](https://replit.com/repls/folder/100_Days_Of_Code) - (Online IDE):
 
-<b>Day 1</b> [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
+<b>Day 1</b> - [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
 
 A Band_Name_Generator from the input of users of their Country & a random Pet Name.
-1. Used the print function, input function , and creating a variable.
-1. Learned about commenting.
-1. Learned that `\n` brings the cursor/content to the next line in the same print function.
+1. Used the print function, input function, & creating a variable.
+2. Learned about commenting.
+3. Learned that `\n` brings the cursor/content to the next line in the same print function.
 
 <!--
 <b>Day 2</b> (https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):<br>
