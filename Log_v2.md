@@ -1,7 +1,10 @@
 # #100_Days_Of_Code - Challenge Log v2.0  :memo:
 ###### <br>
+<p align="center">
+	<a> 100 Days Of Code & Project - [My_Repl.It](https://replit.com/repls/folder/100_Days_Of_Code) </a>
+</p>
 
-### Day 1: Nov 11, 2021, Monday
+### Day 1: Nov 11, 2021, Thursday
 
 **Today's Progress**: 
 - Revised the basic of Python
@@ -13,7 +16,7 @@
 **New things learned:** 
 - CSS: center an element on a page using `transform` & `translate` property
 
-**Thoughts:**  At last able to start the challenge & do some real world coding Projects. Enjoyed the time & work. Wish to have a great journey. 
+**Thoughts:**  At last able to start the challenge & do some real world coding Projects. Enjoyed the time & work. Wish to have a great journey. It took me 5 Days to make this Repo looks good. So from Today going to start my journey.
 
 ------------
 
