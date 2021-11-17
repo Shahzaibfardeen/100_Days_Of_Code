@@ -1,17 +1,19 @@
 # 100_Days_Of_Code_(Python)
 
-##### #100_Days_Of_Code - Day to Day challenge to complete 100 days by making 1 Project every day using Python. Track My Progress in log_v2 & log_v3 <br>
+##### #100_Days_Of_Code - Day to Day challenge to complete 100 days by making 1 Project every day using Python. Track My Progress in [log_v2](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Log_v2.md) <br>
+
 ###### This repository will store all the related Projects & Links to the Projects. If you are intrested in any code files, please run the code in an IDE for Python, Although i recommend running it in Repl_It as some modules are imported based on the website. <hr>
 
-###### Below is my summary of what I've learned everyday & the link to fork the project in Repl.it (Online IDE):
+###### Below is my summary of what I've learned everyday & the link to fork the project in [My_Repl.it](https://replit.com/repls/folder/100_Days_Of_Code) - (Online IDE):
 
-<b>Day 1</b> (https://repl.it/@LeeRen1/D1-Band-name-generatorPOTD):<br>
+<b>Day 1</b> [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
 
-A band name generator from the input of users of their country and a random pet name.
+A Band_Name_Generator from the input of users of their Country & a random Pet Name.
 1. Used the print function, input function , and creating a variable.
-1. Learned about commenting
-1. Learned that `\n` brings the cursor/content to the next line in the same print function
+1. Learned about commenting.
+1. Learned that `\n` brings the cursor/content to the next line in the same print function.
 
+<!--
 <b>Day 2</b> (https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):<br>
 
 Created a simple calculator that takes in input of the total bill, percentage of tips to be given and the amount of people to split the bill. 
@@ -140,3 +142,4 @@ Built a higher-lower game that lets user guess which celebrity/ famous pages has
 1. Learned a lot about how to use PyCharm and its shotcuts. I searched for some plugins to beautify the code for better visualization. 
 
 <b>Day 17</b> ():<br>
+-->
