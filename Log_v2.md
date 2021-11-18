@@ -1,7 +1,7 @@
 # #100_Days_Of_Code - Challenge Log v2.0  :memo:
 ### <br>
 
-### Day 1: Nov 11, 2021, Thursday
+### Day 1: Nov 18, 2021, Thursday
 
 **Today's Progress**: 
 - Revised the basic of Python
