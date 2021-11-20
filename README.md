@@ -71,6 +71,9 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 | :------------: | ------------ | :------------: |
 | 1  | Band Name Generator | [Day 1](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)  |
 | 2  | Tip Calculator      | [Day 2]()  |
+| 3  | Upcoming Projects      | [Day 3]()  |
+| 4  | Yet to add      | [Day 4]()  |
+| 5  | Yet to add     | [Day 5]()  |
 
 <!--| 3  | Rivet - Simple Blog Template  | [Day 6](https://github.com/mimukit/100-days-of-code-log#day-6-may-30-2017-tuesday "Day 6")  |
 | 4  | React Weather App | [Day 15](https://github.com/mimukit/100-days-of-code-log#day-15-june-9-2017-friday "Day 15") |
