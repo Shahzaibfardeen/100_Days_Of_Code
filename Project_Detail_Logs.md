@@ -9,9 +9,9 @@
 <b>Day 1</b> - [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
 
 A Band_Name_Generator from the input of users of their Country & a random Pet Name.
-1. Used the print function, input function, & creating a variable.
-2. Learned about commenting.
-3. Learned that `\n` brings the cursor/content to the next line in the same print function.
+1. Used the Print & Input Function, & Used a Variable.
+2. Learned about Commenting `\n - Backslash`.
+3. Learned that `\n` brings the Cursor/Content to the next line in the same Print Function.
 
 <!--
 <b>Day 2</b> (https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):<br>
