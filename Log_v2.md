@@ -1,7 +1,7 @@
 # #100_Days_Of_Code - Challenge Log v2.0  :memo:
 ### <br>
 
-### Day 1: Nov 18, 2021, Thursday
+### Day 1: Dec 18, 2021, Saturday
 
 **Today's Progress**: 
 - [ Printing, Commenting, Debugging, Variables & String Manipulation ]
