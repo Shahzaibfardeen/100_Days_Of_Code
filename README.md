@@ -40,7 +40,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 
 |  Start Date  | End Date |
 | ------------ | ------------ |
-| 18 Dec, 2021 | --------|
+| 01 Jan, 2022 | --------|
 <br/>
 
 
@@ -61,7 +61,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
  - ##### *ELDO - EnLift Development Organization* : 
 	- I started this organization to share knowledge with each others. Technology, Science & Knowledge are important in modern contemporary society. We not only focus on Technical & Technology. We also focus on Soft Skills & Aptitude. we all gather to enrich our minds.
 
- - ##### *100 Days Of Code : 18 December, 2021, Saturday* : 
+ - ##### *100 Days Of Code : 01 January, 2022, Saturday* : 
 	- it's a challenge for Me to code for next 100 days to make a habit of Everyday Coding to Develop my Skill Sets.
 <br/>
 
@@ -70,7 +70,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 | S.No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
 | 1  | Band Name Generator | [Day 1](https://replit.com/@Shazz73/1-BandNameGenerator#main.py)  |
-| 2  | Tip Calculator      | [Day 2]()  |
+| 2  | Tip Calculator      | [Day 2](https://replit.com/@Shazz73/2-TipCalculator#main.py)  |
 | 3  | Upcoming Projects      | [Day 3]()  |
 | 4  | Yet to add      | [Day 4]()  |
 | 5  | Yet to add     | [Day 5]()  |
@@ -83,4 +83,4 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
 <br/>
 <hr/>
 
-<p align="center"> &copy; 2021 Shahzaib Fardeen </p>
+<p align="center"> &copy; 2022 Shahzaib Fardeen </p>
