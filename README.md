@@ -32,6 +32,7 @@ _________________________________
 ```
 -->
 
+
 **Main Target :** ***I will code for at least an hour every day for the next 100 days.***
 
 Actually, it's a challenge for 100 days to make a habit of everyday Coding to Develop my Skill sets. More details about the Project & Logs can be found here :  [Project_Details](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Project_Detail_Logs.md) Or [The_Daily_logs - Log_v2](https://github.com/Shahzaibfardeen/100_Days_Of_Code/blob/main/Log_v2.md).
@@ -64,6 +65,7 @@ Actually, it's a challenge for 100 days to make a habit of everyday Coding to De
  - ##### *100 Days Of Code : 01 January, 2022, Saturday* : 
 	- it's a challenge for Me to code for next 100 days to make a habit of Everyday Coding to Develop my Skill Sets.
 <br/>
+
 
 ## Completed Projects List
 
