@@ -6,21 +6,21 @@
 
 ###### Below is my summary of what I've learned everyday & the link to fork the project in [My_Repl.it](https://replit.com/repls/folder/100_Days_Of_Code) - (Online IDE):
 
-<b>Day 1</b> - [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
+<b> Day 1 </b> - [Band_Name_Generator](https://replit.com/@Shazz73/1-BandNameGenerator):<br>
 
 A Band_Name_Generator from the input of users of their Country & a random Pet Name.
 1. Used the Print & Input Function, & Used a Variable.
 2. Learned about Commenting `\n - Backslash`.
 3. Learned that `\n` brings the Cursor/Content to the next line in the same Print Function.
 
-<!--
-<b>Day 2</b> (https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):<br>
+<b> Day 2 </b> [Tip_Calculator](https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):<br>
 
 Created a simple calculator that takes in input of the total bill, percentage of tips to be given and the amount of people to split the bill. 
 1. Applied the f string(found it really convenient)
 1. Reminded me that inputs are in string data type and has to be converted into float/integers before dong any calculations
 1. Reminded me how to round off with a specified decimal number `rounding_off=Round(2.666666,2)` = 2.66
 
+<!--
 <b>Day 3</b> (https://repl.it/@LeeRen1/D36-Treasure-islandPOTD):<br>
 Created a storytelling like treasure island adventure where each steps u take lead to different outcomes.
 1. Applied ASCII Art (figures made by numbers and symbols) via: https://ascii.co.uk/art
