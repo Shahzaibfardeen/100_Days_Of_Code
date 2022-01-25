@@ -20,7 +20,6 @@ Created a simple calculator that takes in input of the total bill, percentage of
 1. Reminded me that inputs are in string data type and has to be converted into float/integers before dong any calculations
 1. Reminded me how to round off with a specified decimal number `rounding_off=Round(2.666666,2)` = 2.66
 
-<!--
 <b>Day 3</b> (https://repl.it/@LeeRen1/D36-Treasure-islandPOTD):<br>
 Created a storytelling like treasure island adventure where each steps u take lead to different outcomes.
 1. Applied ASCII Art (figures made by numbers and symbols) via: https://ascii.co.uk/art
@@ -28,6 +27,7 @@ Created a storytelling like treasure island adventure where each steps u take le
 1. Reminded me that indentation is important in python
 1. Had fun! 😆
 
+<!--
 <b>Day 4</b> (https://repl.it/@LeeRen1/D44-rock-paper-scissors-POTD):<br>
 Created a simple rock-paper-scissors game👊🤚✌ where the computer's move is randomly generated using the random.choice after putting all moves into a list and selecting randomly.
 1. Overall,learned about lists and how flexible it is whether it is to extend the list, replacing the item, choose a specific item with index starting from 0 from front and -1 from back, extending the list with another list from input and more
